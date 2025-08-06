@@ -116,5 +116,4 @@ This project provides a simple and extendable solution for expense sharing. With
 
 
 
-Ask ChatGPT
 
