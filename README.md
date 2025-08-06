@@ -112,8 +112,3 @@ Group-based analytics and leaderboards
 This project provides a simple and extendable solution for expense sharing. With Python at its core and optional data science libraries, it offers the potential for real-world use and deep expense analysis.
 
 
-
-
-
-
-
